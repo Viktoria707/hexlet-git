@@ -1,1 +1,0 @@
-Haskrll Curry
